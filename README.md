@@ -4,7 +4,7 @@
 ## Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raskc&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raskc&theme=radical&line_height=27">
 </p>
 <p align = "center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raskc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
