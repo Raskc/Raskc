@@ -4,6 +4,9 @@
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=About+me+👺&height=70">
 </h2>
+<p align = "left">
+  - My name is Edgar Dion
+</p>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Stats+📈&height=70">
 </h2>
