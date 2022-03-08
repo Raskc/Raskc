@@ -6,5 +6,5 @@
 
 ### Contacts
 <p align="left">
-  <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+  <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="32" width="32" src="assets/twitter.png"></a>
 </p>
