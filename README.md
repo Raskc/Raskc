@@ -10,12 +10,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raskc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 ## Language
-<p align = "center">
+<p align = "left">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="left">Contacts <img src="assets/contatcs.gif" width="50"></h2>
 <p align="left">
   <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="50" width="50" src="assets/twitter.png"></a>
 </p>
