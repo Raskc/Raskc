@@ -9,8 +9,8 @@
  👨‍🎓 Currently learning at Epitech Paris | First years<br>
  👺 I like to watch animes<br>
  👨‍💻 Front-end/Back-end developer for <a href = "https://twitter.com/blockzone_?lang=fr">BlockZone</a><br>
- 💤 Sleeping is my favourite activity
- 👌 I really like learning new things
+ 💤 Sleeping is my favourite activity<br>
+ 👌 I really like learning new things<br>
 </p>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Stats+📈&height=70">
