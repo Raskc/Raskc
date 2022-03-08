@@ -2,9 +2,9 @@
 ## About me
 
 ## Stats
-<h2 align="center">
+<p align = "center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical) 
-</h2>
+</p>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raskc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
                              [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raskc&theme=radical)](https://git.io/streak-stats)
 ## Language
