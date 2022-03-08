@@ -5,11 +5,9 @@
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=About+me+👺&height=70">
 </h2>
 <p align = "left">
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+ 🎂 I'm 18 years old
+ 👨‍🎓 Currently learning at Epitech Paris | First years
+ 👺 I like to watch animes
 </p>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Stats+📈&height=70">
