@@ -5,5 +5,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raskc&theme=radical&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)                                 
 
 ### Contacts
-Discord - Rask#6669
-Twitter - 
+<a href="https://discord.gg/WjEFnzC"><img alt="Discord - Rask#6669" title="Discord -Rask#6669" height="32" width="32" src="assets/discord.svg"></a>
+<a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
