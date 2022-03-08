@@ -22,6 +22,6 @@
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=40&duration=6000&lines=Contacts+📩&height=70">
 </h2>
-<p align = "left">
-  <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="50" width="50" src="assets/twitter.png"></a>
+<p align = "center">
+  <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="70" width="70" src="assets/twitter.png"></a>
 </p>
