@@ -1,4 +1,6 @@
-
+<h2 align = "center ">
+  <img src = "assets/banner.gif" width = 1000 height = 350>
+</h2>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=About+me+👺&height=70">
 </h2>
