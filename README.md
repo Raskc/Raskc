@@ -1,7 +1,10 @@
 
-## About me
-
-## Stats
+<h2 align = "left">
+   <img src = " https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=40&duration=6000&lines=About+me">
+</h2>
+<h2 align = "left">
+   <img src = " https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=40&duration=6000&lines=Stats">
+</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical&line_height=27">
 </p>
