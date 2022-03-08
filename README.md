@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-<h2 align="left">Contacts <img src="assets/contacts.gif" width="20"></h2>
+<h2 align="left">Contacts <img src="assets/contacts.gif" width="30"></h2>
 <p align="left">
   <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="50" width="50" src="assets/twitter.png"></a>
 </p>
