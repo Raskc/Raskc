@@ -7,11 +7,11 @@
 <p align = "left">
  <span color="red">
  🎂 I'm 18 years old<br>
- 👨‍🎓 Currently learning at Epitech Paris | First years<br>
+ 👨‍🎓 Currently studying at Epitech Paris | First years<br>
  👺 I like to watch animes<br>
  👨‍💻 Front-end/Back-end developer for <a href = "https://twitter.com/blockzone_?lang=fr">BlockZone</a><br>
  💤 Sleeping is my favourite activity<br>
- 👌 I really like learning new things
+  👌 I really like learning new things
   </span>
 </p>
 <h2 align = "left">
