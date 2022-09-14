@@ -6,7 +6,7 @@
 </h2>
 <p align = "left">
  <span color="red">
- 🎂 I'm 18 years old<br>
+ 🎂 I'm 19 years old<br>
  👨‍🎓 Currently studying at Epitech Paris | First years<br>
  👺 I like to watch animes<br>
  👨‍💻 Front-end/Back-end developer for <a href = "https://twitter.com/blockzone_?lang=fr">BlockZone</a><br>
