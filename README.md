@@ -1,4 +1,4 @@
-<h2 align = "center ">
+q<h2 align = "center ">
   <img src = "assets/banner.gif" width = 1000 height = 350>
 </h2>
 <h2 align = "left">
@@ -6,7 +6,7 @@
 </h2>
 <p align = "left">
  <span color="red">
- 🎂 I'm 19 years old<br>
+ 🎂 I'm 20 years old<br>
  👨‍🎓 Currently studying at Epitech Paris | Second years<br>
  👺 I like to watch animes<br>
  👨‍💻 Front-end/Back-end developer for <a href = "https://twitter.com/blockzone_?lang=fr">BlockZone</a><br>
