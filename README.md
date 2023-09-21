@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raskc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
 </p>
 <h2 align = "left">
-   <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Languages+💻&height=70">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </h2>
 <p align = "center">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
