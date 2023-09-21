@@ -1,4 +1,4 @@
-q<h2 align = "center ">
+<h2 align = "center ">
   <img src = "assets/banner.gif" width = 1000 height = 350>
 </h2>
 <h2 align = "left">
