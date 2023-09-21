@@ -18,10 +18,10 @@ q<h2 align = "center ">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Stats+📈&height=70">
 </h2>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical&line_height=27&count-private=true">
 </p>
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raskc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raskc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&count-private=true"/>
 </p>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Languages+💻&height=70">
