@@ -8,7 +8,7 @@
 <p align = "left">
  <span color="red">
  🎂 I'm 20 years old<br>
- 👨‍🎓 Currently studying at Epitech Paris | Second years<br>
+ 👨‍🎓 Currently studying at Epitech Paris | Third years<br>
  👺 I like to watch animes<br>
  💤 Sleeping is my favourite activity<br>
   👌 I really like learning new things
