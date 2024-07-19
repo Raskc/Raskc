@@ -27,7 +27,7 @@
    <img src="https://img.shields.io/badge/svelte-%2300599C.svg?style=for-the-badge&logo=svelte&logoColor=white" />
    <img src="https://img.shields.io/badge/threeJS-%2300599C.svg?style=for-the-badge&logo=threedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/nodeJS-%2300599C.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <img src="https://img.shields.io/badge/javascript-#F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/threeJS%2300599C.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 <h2 align = "left">
