@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=cpp&logoColor=white" />
-   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white" />
-   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+   <img src="https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+   <img src="https://img.shields.io/badge/react-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white" />
+   <img src="https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 <h2 align = "left">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Contacts+📩&height=70">
