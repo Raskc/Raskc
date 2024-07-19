@@ -4,11 +4,8 @@
 </h2>
 <p align = "left">
  <span color="red">
- 🎂 I'm 21 years old<br>
- 👨‍🎓 Currently studying at Epitech Paris | Third years<br>
- 👺 I like to watch animes<br>
- 💤 Sleeping is my favourite activity<br>
-  👌 I really like learning new things
+    I'm 21 years old<br>
+    Currently studying at Epitech Paris | 3rd years<br>
   </span>
 </p>
 <h2 align = "left">
