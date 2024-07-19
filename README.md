@@ -26,9 +26,3 @@
    <img src="https://img.shields.io/badge/ThreeJS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/nodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
-<h2 align = "left">
-   <img src = "https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23D83B7D&size=30&duration=6000&lines=Contacts+📩&height=70">
-</h2>
-<p align = "center">
-  <a href="https://twitter.com/Rask_Dev"><img alt="Twitter" height="70" width="70" src="assets/twitter.png"></a>
-</p>
