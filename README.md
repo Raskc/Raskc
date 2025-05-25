@@ -4,8 +4,8 @@
 </h2>
 <p align = "left">
  <span color="red">
-    I'm 21 years old<br>
-    Currently studying at Epitech Paris | 4th years (DCU Dublin)<br>
+    I'm 22 years old<br>
+    Currently studying at Epitech Paris | 4th years<br>
   </span>
 </p>
 <h2 align = "left">
