@@ -17,7 +17,7 @@
 - 🎓 **Master in Computer Science @ EPITECH Paris** (exchange @ DCU Dublin)  
 - 🛠️ Full-stack developer: **backend, frontend, DevOps, architecture**  
 - 🌱 Always exploring new stacks & tools with a focus on scalability and clean design  
-- 🎮 Explored **gamedev (Roblox/Lua, C++)** as a side project → learned about shipping real features, handling updates and user feedback, and maintaining live projects (800K Group, 45M+ played games) in a year.
+- 🎮 Explored **gamedev (Roblox/Lua, C++)** as a side project → learned about shipping real features, handling updates and user feedback, and maintaining live projects (800K users in game group, 45M+ played games) in a year.
 - 💡 Curious by nature, I like challenging myself with projects that turn ideas into something people can actually use  
 
 ---
