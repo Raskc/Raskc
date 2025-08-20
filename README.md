@@ -6,19 +6,19 @@
 
 <p align="center">
   <b>Hi, I'm Edgar (aka Rask)!</b> <br>
-  Entrepreneurial software engineer who loves building things end-to-end —  
-  from backend systems to frontend experiences, scalable infrastructures, and beyond.
+  Software engineer passionate about building across the stack -  
+  from backend systems to frontend experiences, scalable infra, and creative side projects 🚀
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a developer with an **entrepreneurial mindset**: I don’t just code, I design, ship, and maintain real products.  
-Currently finishing my **Master in Computer Science @ EPITECH Paris** (with international experience at Dublin City University), I thrive on turning ideas into scalable, impactful solutions.  
-
-I’ve worked across **backend, frontend, DevOps and architecture**, always curious to explore new tools and frameworks.  
-Beyond coursework, I pushed myself into **gamedev as a side venture** (Roblox/Lua, C++), which grew into a real-world experience: handling communities, updates, monetization, and contracts. That journey sharpened my skills in **product thinking and ownership** — lessons I now apply to every project I take on.  
+- 🎓 **Master in Computer Science @ EPITECH Paris** (exchange @ DCU Dublin)  
+- 🛠️ Full-stack developer: **backend, frontend, DevOps, architecture**  
+- 🌱 Always exploring new stacks & tools with a focus on scalability and clean design  
+- 🎮 Explored **gamedev (Roblox/Lua, C++)** as a side project → learned about shipping real features, handling updates and user feedback, and maintaining live projects  
+- 💡 Curious by nature, I like challenging myself with projects that turn ideas into something people can actually use  
 
 ---
 
@@ -58,10 +58,10 @@ Beyond coursework, I pushed myself into **gamedev as a side venture** (Roblox/Lu
 
 ## 🎯 Strengths
 
-- **Entrepreneurial Mindset:** I build, ship and maintain projects like products — not just code.  
-- **Full-Stack Versatility:** Backend, frontend, DevOps, architecture — I connect the dots.  
-- **Analytical & Product Driven:** Robust solutions aligned with real-world needs.  
-- **Self-Starter:** Learned by doing — from personal ventures to managing communities and updates.  
+- 🔧 **Full-stack versatility:** backend, frontend, DevOps, architecture  
+- 🧠 **Analytical & product-driven:** focus on simple, robust solutions  
+- 🚀 **Hands-on learner:** grow by building side projects and applying new stacks  
+- 🎮 **Practical experience:** learned from maintaining gamedev projects with real users  
 
 ---
 
