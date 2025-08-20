@@ -1,5 +1,5 @@
 <h3 align="center">
-  5TH YEAR EPITECH PARIS STUDENT
+  5TH YEAR EPITECH PARIS STUDENT 👋
 </h3>
 
 ---
