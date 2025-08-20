@@ -58,9 +58,9 @@
 
 ## 🎯 Strengths
 
-- 🔧 **Full-stack versatility:** backend, frontend, DevOps, architecture  
-- 🧠 **Analytical & product-driven:** focus on simple, robust solutions  
-- 🚀 **Hands-on learner:** grow by building side projects and applying new stacks  
+- ⚡ **Fast learner:** pick up new stacks & frameworks quickly, self-taught in many areas  
+- 🔍 **Problem-solver:** break down complex challenges into clean, maintainable solutions  
+- 🤝 **Collaborative mindset:** work well in teams, value clarity and communication  
 - 🎮 **Practical experience:** learned from maintaining gamedev projects with real users  
 
 ---
