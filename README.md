@@ -6,19 +6,19 @@
 
 <p align="center">
   <b>Hi, I'm Edgar (aka Rask)!</b> <br>
-  Software engineer passionate about web, backend systems and game development.  
-  Always looking to build scalable, creative and impactful projects.
+  Entrepreneurial software engineer who loves building things end-to-end —  
+  from backend systems to frontend experiences, scalable infrastructures, and beyond.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Master in Computer Science @ EPITECH Paris**  
-  Currently in my final year, with international experience at Dublin City University.
-- 🌍 Based in Paris, open to part-time internships, collaborations and global opportunities.
-- 🎮 Strong interest in **game development** (Lua/Roblox, C++, 3D systems) alongside web/backend work.
-- 🛠️ Enjoy working on scalable architectures, product-oriented solutions and AI-driven tools.
+I’m a developer with an **entrepreneurial mindset**: I don’t just code, I design, ship, and maintain real products.  
+Currently finishing my **Master in Computer Science @ EPITECH Paris** (with international experience at Dublin City University), I thrive on turning ideas into scalable, impactful solutions.  
+
+I’ve worked across **backend, frontend, DevOps and architecture**, always curious to explore new tools and frameworks.  
+Beyond coursework, I pushed myself into **gamedev as a side venture** (Roblox/Lua, C++), which grew into a real-world experience: handling communities, updates, monetization, and contracts. That journey sharpened my skills in **product thinking and ownership** — lessons I now apply to every project I take on.  
 
 ---
 
@@ -58,15 +58,16 @@
 
 ## 🎯 Strengths
 
-- **Versatile Developer:** From backend systems to game engines, adapts quickly to new stacks.  
-- **Analytical & Product Driven:** Finds simple, effective solutions to complex challenges.  
-- **Creative Builder:** Loves experimenting with **3D, gamedev** and user-centric experiences.  
+- **Entrepreneurial Mindset:** I build, ship and maintain projects like products — not just code.  
+- **Full-Stack Versatility:** Backend, frontend, DevOps, architecture — I connect the dots.  
+- **Analytical & Product Driven:** Robust solutions aligned with real-world needs.  
+- **Self-Starter:** Learned by doing — from personal ventures to managing communities and updates.  
 
 ---
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:edgar.dion@epitech.eu">Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/edgar-dion/">LinkedIn</a>
+  📧 edgar.dion@epitech.eu &nbsp;•&nbsp;  
+  <a href="https://www.linkedin.com/in/edgar-dion-a8b7a9234">LinkedIn</a>
 </p>
