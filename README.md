@@ -7,7 +7,7 @@
 <p align="center">
   <b>Hi, I'm Edgar (aka Rask)!</b> <br>
   Software engineer passionate about building across the stack -  
-  from backend systems to frontend experiences, scalable infra, and creative side projects 🚀
+  from backend systems to frontend experiences, and creative side projects 🚀
 </p>
 
 ---
